@@ -166,7 +166,7 @@
 
 # --------------- PLAYTUBE (EMBED) ---------------
 
-1 ~ https://playtube.ws/api/folder/list?key=PLAYTUBE_KEY ~ result.files ~ [url] <> result.folders <> fld_id <> "https://playtube.ws/api/folder/list?key=VOE_KEY&fld_id=_VALUE_" ~ file_code <> custom.player8 <> <> <> "PLAYTUBE https://playtube.ws/embed-_VALUE_.html" ~ title <> custom.season ~ title <> custom.episode ~ additional_info.name <> custom.imdb_id
+1 ~ https://playtube.ws/api/folder/list?key=PLAYTUBE_KEY ~ result.files ~ [url] <> result.folders <> fld_id <> "https://playtube.ws/api/folder/list?key=PLAYTUBE_KEY&fld_id=_VALUE_" ~ file_code <> custom.player8 <> <> <> "PLAYTUBE https://playtube.ws/embed-_VALUE_.html" ~ title <> custom.season ~ title <> custom.episode ~ additional_info.name <> custom.imdb_id
 
 ```
 
