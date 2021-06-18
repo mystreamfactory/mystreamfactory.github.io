@@ -6,9 +6,8 @@
 
 ![Movie/TV Streaming Website via an API DOODSTREAM](https://mystreamfactory.github.io/doodstream.png)
 
-https://ok.ru/video/2582006401642
-
-https://streamable.com/i1c2pf
+- [https://ok.ru/video/2582006401642](https://ok.ru/video/2582006401642)
+- [https://streamable.com/i1c2pf](https://streamable.com/i1c2pf)
 
 #### Automating (API DOODSTREAM)
 
@@ -31,9 +30,8 @@ https://streamable.com/i1c2pf
 
 ![Movie/TV Streaming Website via an API NINJASTREAM](https://mystreamfactory.github.io/ninjastream.png)
 
-https://ok.ru/video/2582021278314
-
-https://streamable.com/q1ukv7
+- [https://ok.ru/video/2582021278314](https://ok.ru/video/2582021278314)
+- [https://streamable.com/q1ukv7](https://streamable.com/q1ukv7)
 
 #### Automating (API NINJASTREAM)
 
@@ -58,9 +56,8 @@ https://streamable.com/q1ukv7
 
 #### Automating (API STREAMSB)
 
-https://ok.ru/video/2582024096362
-
-https://streamable.com/89b8qa
+- [https://ok.ru/video/2582024096362](https://ok.ru/video/2582024096362)
+- [https://streamable.com/89b8qa](https://streamable.com/89b8qa)
 
 ```
 # --------------- STREAMSB (MOVIE) ---------------
@@ -83,9 +80,8 @@ https://streamable.com/89b8qa
 
 #### Automating (API STREAMTAPE)
 
-https://ok.ru/video/2582024227434
-
-https://streamable.com/dmqame
+- [https://ok.ru/video/2582024227434](https://ok.ru/video/2582024227434)
+- [https://streamable.com/dmqame](https://streamable.com/dmqame)
 
 ```
 # --------------- STREAMTAPE (MOVIE) ---------------
@@ -108,9 +104,8 @@ https://streamable.com/dmqame
 
 #### Automating (API MIXDROP)
 
-https://ok.ru/video/2582018067050
-
-https://streamable.com/q5xoj4
+- [https://ok.ru/video/2582018067050](https://ok.ru/video/2582018067050)
+- [https://streamable.com/q5xoj4](https://streamable.com/q5xoj4)
 
 ```
 # --------------- MIXDROP (MOVIE) ---------------
@@ -133,9 +128,8 @@ https://streamable.com/q5xoj4
 
 #### Automating (API UPSTREAM)
 
-https://ok.ru/video/2582024620650
-
-https://streamable.com/5r4lwl
+- [https://ok.ru/video/2582024620650](https://ok.ru/video/2582024620650)
+- [https://streamable.com/5r4lwl](https://streamable.com/5r4lwl)
 
 ```
 # --------------- UPSTREAM (MOVIE) ---------------
@@ -158,9 +152,8 @@ https://streamable.com/5r4lwl
 
 #### Automating (API VOE)
 
-https://ok.ru/video/2582025144938
-
-https://streamable.com/bw8yia
+- [https://ok.ru/video/2582025144938](https://ok.ru/video/2582025144938)
+- [https://streamable.com/bw8yia](https://streamable.com/bw8yia)
 
 ```
 # --------------- VOE (MOVIE) ---------------
@@ -183,9 +176,8 @@ https://streamable.com/bw8yia
 
 #### Automating (API PLAYTUBE)
 
-https://ok.ru/video/2582023506538
-
-https://streamable.com/qtwvru
+- [https://ok.ru/video/2582023506538](https://ok.ru/video/2582023506538)
+- [https://streamable.com/qtwvru](https://streamable.com/qtwvru)
 
 ```
 # --------------- PLAYTUBE (MOVIE) ---------------
@@ -208,9 +200,8 @@ https://streamable.com/qtwvru
 
 #### Automating (API STREAMON)
 
-https://ok.ru/video/2582023703146
-
-https://streamable.com/oaxjpf
+- [https://ok.ru/video/2582023703146](https://ok.ru/video/2582023703146)
+- [https://streamable.com/oaxjpf](https://streamable.com/oaxjpf)
 
 ```
 # --------------- STREAMON (MOVIE) ---------------
@@ -233,9 +224,8 @@ https://streamable.com/oaxjpf
 
 #### Automating (API UPVIDEO)
 
-https://ok.ru/video/2582024948330
-
-https://streamable.com/7pm98n
+- [https://ok.ru/video/2582024948330](https://ok.ru/video/2582024948330)
+- [https://streamable.com/7pm98n](https://streamable.com/7pm98n)
 
 All players are already filled `custom.player{1-9}`
 
