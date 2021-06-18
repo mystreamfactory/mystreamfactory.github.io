@@ -6,6 +6,10 @@
 
 ![Movie/TV Streaming Website via an API DOODSTREAM](https://mystreamfactory.github.io/doodstream.png)
 
+https://ok.ru/video/2582006401642
+
+https://streamable.com/i1c2pf
+
 #### Automating (API DOODSTREAM)
 
 ```
@@ -26,6 +30,10 @@
 ## Movie/TV Streaming Website (API NINJASTREAM)
 
 ![Movie/TV Streaming Website via an API NINJASTREAM](https://mystreamfactory.github.io/ninjastream.png)
+
+https://ok.ru/video/2582021278314
+
+https://streamable.com/q1ukv7
 
 #### Automating (API NINJASTREAM)
 
@@ -50,6 +58,10 @@
 
 #### Automating (API STREAMSB)
 
+https://ok.ru/video/2582024096362
+
+https://streamable.com/89b8qa
+
 ```
 # --------------- STREAMSB (MOVIE) ---------------
 
@@ -70,6 +82,10 @@
 ![Movie/TV Streaming Website via an API STREAMTAPE](https://mystreamfactory.github.io/streamtape.png)
 
 #### Automating (API STREAMTAPE)
+
+https://ok.ru/video/2582024227434
+
+https://streamable.com/dmqame
 
 ```
 # --------------- STREAMTAPE (MOVIE) ---------------
@@ -92,6 +108,10 @@
 
 #### Automating (API MIXDROP)
 
+https://ok.ru/video/2582018067050
+
+https://streamable.com/q5xoj4
+
 ```
 # --------------- MIXDROP (MOVIE) ---------------
 
@@ -112,6 +132,10 @@
 ![Movie/TV Streaming Website via an API UPSTREAM](https://mystreamfactory.github.io/upstream.png)
 
 #### Automating (API UPSTREAM)
+
+https://ok.ru/video/2582024620650
+
+https://streamable.com/5r4lwl
 
 ```
 # --------------- UPSTREAM (MOVIE) ---------------
@@ -134,6 +158,10 @@
 
 #### Automating (API VOE)
 
+https://ok.ru/video/2582025144938
+
+https://streamable.com/bw8yia
+
 ```
 # --------------- VOE (MOVIE) ---------------
 
@@ -154,6 +182,10 @@
 ![Movie/TV Streaming Website via an API PLAYTUBE](https://mystreamfactory.github.io/playtube.png)
 
 #### Automating (API PLAYTUBE)
+
+https://ok.ru/video/2582023506538
+
+https://streamable.com/qtwvru
 
 ```
 # --------------- PLAYTUBE (MOVIE) ---------------
@@ -176,6 +208,10 @@
 
 #### Automating (API STREAMON)
 
+https://ok.ru/video/2582023703146
+
+https://streamable.com/oaxjpf
+
 ```
 # --------------- STREAMON (MOVIE) ---------------
 
@@ -196,6 +232,10 @@
 ![Movie/TV Streaming Website via an API UPVIDEO](https://mystreamfactory.github.io/upvideo.png)
 
 #### Automating (API UPVIDEO)
+
+https://ok.ru/video/2582024948330
+
+https://streamable.com/7pm98n
 
 All players are already filled `custom.player{1-9}`
 
